@@ -1,0 +1,8 @@
+.main_content{
+    margin-top: 100px;
+}
+#searchResults{
+    max-height: 350px;
+    overflow: auto;
+    display: none;
+}
